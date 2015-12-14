@@ -5,6 +5,8 @@ white=[]
 black=[]
 
 with open('cards-DevOpsAgainstHumanity.csv', 'rb') as csvfile:
+    next(csvfile)
+    next(csvfile)
     for r in csv.reader(csvfile):
         if r[0]: white.append(r[0])
         if r[1]: black.append(r[1])
