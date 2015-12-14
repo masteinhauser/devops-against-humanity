@@ -53,7 +53,7 @@ If you'd like an idea of what the combinations of hilarity can look like, check 
 <pre>
 #!/usr/bin/env python
 import urllib,csv,random,re
-u='https://raw.githubusercontent.com/bridgetkromhout/devops-against-humanity/master/cards-DevOpsAgainstHumanity.csv'
+u='https://raw.githubusercontent.com/masteinhauser/devops-against-humanity/master/cards-DevOpsAgainstHumanity.csv'
 
 white=[]
 black=[]
