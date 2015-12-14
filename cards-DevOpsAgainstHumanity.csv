@@ -1,9 +1,9 @@
 ,http://devopsagainsthumanity.com
 White Cards (noun or gerund - single word or phrase),Black Cards (direct question or fill-in-the-blank statement with one blank or two) (5 underscores = blank)
-# TODO: figure out what this actually does,_____ as a service.
 /r/talesfromtechsupport,_____ all the way down.
-/var/log symlinked to /dev/null,_____ as code.
-"# FIXME: For now, just don't validate",_____ because _____.
+/var/log symlinked to /dev/null,_____ as a service.
+"# FIXME: For now, just don't validate",_____ as code.
+# TODO: figure out what this actually does,_____ because _____.
 $60 QNAP and some positive thinking,_____ Considered Harmful
 10 years since last update,_____ Driven Development.
 "10,000 Nagios alerts per second",_____ for the win!
@@ -24,83 +24,83 @@ A German installation of Windows NT4,_____. Betcha can't have just one!
 A Github Outage,_____. It's a trap!
 A JAR full of spaghetti,_____. What could go wrong?
 A mint-in-box AOL trial CD,...and then there was the time I found _____ on the root partition.
-A page at 3 a.m.,"""Our release schedule doesn't have time for _____."""
-"A posting on Craigslist ""internet engineers"" jobs forum","""There was no good solution for _____, so we built our own."""
-A proof that P=NP written in BASIC,140 characters is just enough to explain _____.
-a routing loop,A Beowulf cluster of _____.
-A self-aware PHP script,Accidental _____.
-A series of tiny shellscripts,"After _____ came up, the retrospective really went downhill."
-A series of tubes,All that we had to do to halve our response times was implement _____.
-A server rack full of crushed dreams,Amazon built a datacenter on the moon to lessen the risk of _____ causing problems.
-A shared root password,And the Academy Award for _____ goes to _____.
-A simple 15 level Hiera hierarachy,Artisanally crafted _____.
-A swiss cheese firewall,Ask Me Anything about _____.
-A time travel paradox.,"But before I kill you, Mr. Bond, I must show you _____."
-A turducken made entirely of bash scripts,Conway's Game of _____.
-A violation of the most basic engineering principles.,Could you just push this update for _____?  It should be a no-op.
-A virtual machine running a virtual machine until it brings on the Singularity,Crossing _____ could lead to total protonic reversal.
-A WSDL from 2003,Data-driven decisions are to be replaced with _____.
-Accidentally the entire data center,DevOps: Now with 100% more _____!
-Actually reading the manual,Did you know that we have _____ on pager rotation?
-Agile,Employees must _____ before returning to work.
-Agony Driven Development,Enterprise _____ in the cloud.
-An epic caffeine bender,Enterprise-ready _____.
-An Exchange email loop,Etsy says we should _____ everything.
-An uncontrollable deluge of emails,Facebook has acquired _____ for $10b and _____.
-An untested restore process,Free as in _____.
-Apache 1.2 running as root,I came up with an awesome regex that converts _____ to _____.
-Arch linux in production,I can haz _____.
-ASAP,I cut-and-pasted this StackOverflow code for my _____.
-Beating the server into submission with your bare hands.,"I don't have any UNIX Beards in stock, but we do have  _____"
-Being acquired by Oracle,I got paged at 3am because of _____.
-Being fabulous.,I just finished writing an API for _____.
-Being on Fire.,I need a webinar like I need _____.
-Blue Screen Of Death,"I need to re-munge the CSV, replacing the commas with _____."
-branded hoodies,I never truly understood _____ until I encountered _____.
-business value,I never truly understood eXtreme programming until I encountered _____.
-Cache,I think maybe I'll leave _____ off my resumé.
-CAP Theorem,I was up all night debugging _____.
-Catapults.,I'm just finishing up my manifesto on _____.
-Catastrophic Failure,"If _____ is the answer, you are asking the wrong question."
-CEOs with root access,"In order to improve security, we're upgrading to _____."
-ChatOps,"Instead of coal, Santa now gives the bad children _____."
-Cloud 2.0,Is _____ something we need to optimize for?
-Cloud-based business strategy,It has been __ days since the last _____.
-COBOL,It looks like you're trying to _____. Can I help?
-Commenting every line of code,It took over 40 hours to document _____.
-Continuous Deployment,"It turns out that the button labeled ""Don't Push"" actually does _____."
-Continuous Disintegration,It worked on my _____.
-Continuous Incineration,It's easy! Just run _____.
-Continuous Integration,It's like trying to herd _____.
-cron jobs that edit cron jobs,ITIL best practices suggest _____ is the next step.
-Crowdsourced Architecture,Just think of the Internet as _____.
-CTRL - C!<br>CTRL - C!<br>CTRL - C!,Main benefits of automation: _____ and _____.
-Culture,Management just told me I need to get certified in _____.
-Cybernetic enhancements,My Linkedin Endorsements include _____.
-Darth Vader,My stacktrace revealed _____.
-De-linting source code,Next year I'll start learning _____.
-Deploying on a Friday afternoon,No one can authenticate because of ______
-DevOps Days,Nobody will value your work if you don't use _____.
-DevOps Reactions,"Of course culture is important to us, that's why we have _____."
-Disaster Recovery,"Oh, we're devops! We have ______ in the office, but only the DBA can touch it."
-Distributed Computing,"On a scale from 1 to 10, this is _____!"
-DNS,One does not simply _____.
-Docker,Our custom log rotation scripts have the added feature of _____.
-Dropping tables on a Friday,Our greatest achievement in the last year is _____.
-Elastic Load Balancers,Security through _____.
-Emojis as identifiers,Software Defined _____.
-Emotions,"Some people, when confronted with a problem, think ""I know, I'll use _____."" Now they have two problems."
-Enterprise Grade Bash scripts,Step 1: _____. Step 2: _____. Step 3: Profit.
-eventual consistency,The entire system failed because of _____.
-Excessively long variable names,The Internet is for cat memes and _____.
-"Fail early, fail often",The Internet of Things will be controlled by _____.
-Fear itself.,The most stable part of our infrastructure?
-Figgy pudding.,The next big thing is _____.
-Finger painting.,The NSA is really interested in our latest project: _____.
-Five-Dollar Footlongs.,The production datacenter burned down because of _____.
-Flightless birds.,The tech support hotline told me to _____
-Flux Capacitor,The two pillars of our Continuous Deployment pipeline are _____ and _____.
-Force pushing to master,"The vendor solution didn't have log aggregation, but it did have _____."
+A page at 3 a.m.,140 characters is just enough to explain _____.
+"A posting on Craigslist ""internet engineers"" jobs forum",A Beowulf cluster of _____.
+A proof that P=NP written in BASIC,Accidental _____.
+a routing loop,"After _____ came up, the retrospective really went downhill."
+A self-aware PHP script,All that we had to do to halve our response times was implement _____.
+A series of tiny shellscripts,Amazon built a datacenter on the moon to lessen the risk of _____ causing problems.
+A series of tubes,And the Academy Award for _____ goes to _____.
+A server rack full of crushed dreams,Artisanally crafted _____.
+A shared root password,Ask Me Anything about _____.
+A simple 15 level Hiera hierarachy,"But before I kill you, Mr. Bond, I must show you _____."
+A swiss cheese firewall,Conway's Game of _____.
+A time travel paradox.,Could you just push this update for _____?  It should be a no-op.
+A turducken made entirely of bash scripts,Crossing _____ could lead to total protonic reversal.
+A violation of the most basic engineering principles.,Data-driven decisions are to be replaced with _____.
+A virtual machine running a virtual machine until it brings on the Singularity,DevOps: Now with 100% more _____!
+A WSDL from 2003,Did you know that we have _____ on pager rotation?
+Accidentally the entire data center,Employees must _____ before returning to work.
+Actually reading the manual,Enterprise _____ in the cloud.
+Agile,Enterprise-ready _____.
+Agony Driven Development,Etsy says we should _____ everything.
+An epic caffeine bender,Facebook has acquired _____ for $10b and _____.
+An Exchange email loop,Free as in _____.
+An uncontrollable deluge of emails,I came up with an awesome regex that converts _____ to _____.
+An untested restore process,I can haz _____.
+Apache 1.2 running as root,I cut-and-pasted this StackOverflow code for my _____.
+Arch linux in production,"I don't have any UNIX Beards in stock, but we do have  _____"
+ASAP,I got paged at 3am because of _____.
+Beating the server into submission with your bare hands.,I just finished writing an API for _____.
+Being acquired by Oracle,I need a webinar like I need _____.
+Being fabulous.,"I need to re-munge the CSV, replacing the commas with _____."
+Being on Fire.,I never truly understood _____ until I encountered _____.
+Blue Screen Of Death,I never truly understood eXtreme programming until I encountered _____.
+branded hoodies,I think maybe I'll leave _____ off my resumé.
+business value,I was up all night debugging _____.
+Cache,I'm just finishing up my manifesto on _____.
+CAP Theorem,"If _____ is the answer, you are asking the wrong question."
+Catapults.,"In order to improve security, we're upgrading to _____."
+Catastrophic Failure,"Instead of coal, Santa now gives the bad children _____."
+CEOs with root access,Is _____ something we need to optimize for?
+ChatOps,It has been __ days since the last _____.
+Cloud 2.0,It looks like you're trying to _____. Can I help?
+Cloud-based business strategy,It took over 40 hours to document _____.
+COBOL,"It turns out that the button labeled ""Don't Push"" actually does _____."
+Commenting every line of code,It worked on my _____.
+Continuous Deployment,It's easy! Just run _____.
+Continuous Disintegration,It's like trying to herd _____.
+Continuous Incineration,ITIL best practices suggest _____ is the next step.
+Continuous Integration,Just think of the Internet as _____.
+cron jobs that edit cron jobs,Main benefits of automation: _____ and _____.
+Crowdsourced Architecture,Management just told me I need to get certified in _____.
+CTRL - C!<br>CTRL - C!<br>CTRL - C!,My Linkedin Endorsements include _____.
+Culture,My stacktrace revealed _____.
+Cybernetic enhancements,Next year I'll start learning _____.
+Darth Vader,No one can authenticate because of ______
+De-linting source code,Nobody will value your work if you don't use _____.
+Deploying on a Friday afternoon,"Of course culture is important to us, that's why we have _____."
+DevOps Days,"Oh, we're devops! We have ______ in the office, but only the DBA can touch it."
+DevOps Reactions,"On a scale from 1 to 10, this is _____!"
+Disaster Recovery,One does not simply _____.
+Distributed Computing,Our custom log rotation scripts have the added feature of _____.
+DNS,Our greatest achievement in the last year is _____.
+Docker,Our release schedule doesn't have time for _____.
+Dropping tables on a Friday,Security through _____.
+Elastic Load Balancers,Software Defined _____.
+Emojis as identifiers,"Some people, when confronted with a problem, think ""I know, I'll use _____."" Now they have two problems."
+Emotions,Step 1: _____.<br>Step 2: _____.<br>Step 3: Profit.
+Enterprise Grade Bash scripts,The entire system failed because of _____.
+eventual consistency,The Internet is for cat memes and _____.
+Excessively long variable names,The Internet of Things will be controlled by _____.
+"Fail early, fail often",The most stable part of our infrastructure?
+Fear itself.,The next big thing is _____.
+Figgy pudding.,The NSA is really interested in our latest project: _____.
+Finger painting.,The production datacenter burned down because of _____.
+Five-Dollar Footlongs.,The tech support hotline told me to _____
+Flightless birds.,The two pillars of our Continuous Deployment pipeline are _____ and _____.
+Flux Capacitor,"The vendor solution didn't have log aggregation, but it did have _____."
+Force pushing to master,"There was no good solution for _____, so we built our own."
 Free samples,They said we were crazy. They said we couldn’t put _____ inside of _____. They were wrong.
 Friday afternoon deployment,Time to schedule the postmortem for _____.
 Frolicking,To understand _____ you must first understand _____.
@@ -147,6 +147,7 @@ More buzzwords than you can shake a scrum at,
 multi-factor authentication,
 Mutation of immutable data,
 Mutually-assured destruction,
+Mythical Man-Month,
 Nagios,
 Netscape Navigator,
 NoOps,
@@ -220,7 +221,6 @@ The Force,
 The gentle sound of weeping drifting from the server room,
 The last remaining Multics server on Earth,
 The light of a billion suns,
-the Mythical Man-Month,
 The next Y2K,
 The NSA,
 The Travelling Salesman Problem,
