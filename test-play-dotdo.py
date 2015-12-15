@@ -4,7 +4,7 @@ import urllib,csv,random,re
 white=[]
 black=[]
 
-with open('cards-DevOpsAgainstHumanity.csv', 'rb') as csvfile:
+with open('cards-DevOpsToDevOps.csv', 'rb') as csvfile:
     next(csvfile)
     next(csvfile)
     for r in csv.reader(csvfile):
